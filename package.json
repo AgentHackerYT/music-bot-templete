@@ -1,5 +1,11 @@
+{
+  "name": "classify-music",
+  "version": "1.0.0",
+  "description": "Special bot for COOKIE server",
+  "main": "index.js",
+  "author": "idk",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
 {
