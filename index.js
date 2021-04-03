@@ -1,6 +1,15 @@
 const fs = require('fs');
 const discord = require('discord.js');
+const express = require('express');
+const app = express();
+app.get('/', (req, res) => {
+  res.send('Hello Express app!')
+});
 
+app.listen(30201, () => {
+  console.log('server started');
+})
+require("dotenv").config();
 const client = new discord.Client({ disableMentions: 'everyone' });
 
 const { Player } = require('discord-player');
