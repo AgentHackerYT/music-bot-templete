@@ -1,7 +1,12 @@
 ## The ZerioDev's Music bot
 Pretty nice music bot
-## First clone it
-then in terminal do
+## First 
+Clone the bot by doing 
+ ``` git clone https://github.com/AgentHackerYT/mymusic/ ```
+ else Download it as zip .
+ (If downloaded as zip you need to extract it)
+##Then 
+in terminal do
   ```js
   npm i
   ```
