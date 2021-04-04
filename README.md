@@ -6,7 +6,7 @@ then in terminal do
   npm i
   ```
   ## Then
-  go to config/bot.js and fill it\n\n
+  go to config/bot.js and fill it.
   Bot token can be made in [here](https://discord.com/developers/applications)
   ## Then you are ready to go
   ```js
