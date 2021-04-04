@@ -1,5 +1,7 @@
 ## The ZerioDev's Music bot
 Pretty nice music bot
+## Requirements
+Node version 14 and above
 ## First 
 Clone the bot by doing 
  ``` git clone https://github.com/AgentHackerYT/mymusic/ ```
