@@ -19,3 +19,5 @@ in terminal do
   ```js
   node .
   ```
+  ## Invite Classify
+  Invite my bot by clicking [HERE](https://discord.com/api/oauth2/authorize?client_id=785067083566022676&permissions=8&scope=bot)
