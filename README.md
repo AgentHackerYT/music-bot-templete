@@ -1,4 +1,7 @@
-## HI
+## The ZerioDev's Music bot
+First clone it
+then
   ```js
-  its a test
+  npm i
   ```
+  
